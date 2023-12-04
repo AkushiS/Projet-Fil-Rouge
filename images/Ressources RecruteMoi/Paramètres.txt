@@ -1,0 +1,10 @@
+Inria Serif Regular
+
+
+Dimension boutons
+
+Petit
+W 218	H 54
+
+Large
+W 350 	H 54
