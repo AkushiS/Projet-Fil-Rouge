@@ -199,8 +199,35 @@ input[type="submit"]:hover {    /* Effets de survole de la souris sur le bouton 
     width: 250px;
     height: 20px;
     flex-shrink: 0;
-    margin-left: 800px;
-    margin-top: 800px; 
+    margin-left: 25%;
+    margin-top: 60%; 
     background-color: #0A2239;
+
+}
+
+#adresse {
+    width: 425px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-left: 8%;
+    margin-top: 10%;
+    padding-bottom: 10px;
+    
+}
+
+.second {
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #F0F6F6;
+    border: 8px solid #0A2239 ;
+    border-radius: 5px;
+    width: 250px;
+    height: 20px;
+    background-color: #0A2239;
+    margin-left: 25%;
 
 }
