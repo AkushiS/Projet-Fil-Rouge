@@ -185,7 +185,7 @@ input[type="submit"]:hover {    /* Effets de survole de la souris sur le bouton 
 
 }
 
-.first {
+first {
 
     display: flex;
     justify-content: center;
@@ -195,12 +195,12 @@ input[type="submit"]:hover {    /* Effets de survole de la souris sur le bouton 
     height: 50px;
     text-decoration: none;
     color: #F0F6F6;
-    border: 2px solid #0A2239 ;
+    border: 8px solid #0A2239 ;
+    border-radius: 5px;
     width: 250px;
     height: 20px;
     flex-shrink: 0;
-    margin-left: 25%;
-    margin-top: 60%; 
+    margin-left: 25%; 
     background-color: #0A2239;
 
 }
@@ -215,12 +215,12 @@ input[type="submit"]:hover {    /* Effets de survole de la souris sur le bouton 
     
 }
 
-.second {
+.first {
 
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    margin-top: 20px;
+    margin-top: 40%;
     text-decoration: none;
     color: #F0F6F6;
     border: 8px solid #0A2239 ;
@@ -228,6 +228,7 @@ input[type="submit"]:hover {    /* Effets de survole de la souris sur le bouton 
     width: 250px;
     height: 20px;
     background-color: #0A2239;
-    margin-left: 25%;
+    margin-left: 42.5%;
 
+    
 }
